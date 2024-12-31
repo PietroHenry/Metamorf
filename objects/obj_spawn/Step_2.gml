@@ -1,0 +1,1 @@
+instance_create_layer(random_range(obj_player.x + 200,obj_player.x - 200),random_range(obj_player.x + 200,obj_player.x - 200),layer,mob_spawn_escolido)
